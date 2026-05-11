@@ -1,8 +1,8 @@
 # Simulador de Vehículos Autónomos 
 Autores: 
 - Laurie C. Hernández P.
-- Emilio A. González H.
-- Hugo E. Gamboa Sesma
+- Emilio A. González H. @emigzzh
+- Hugo E. Gamboa Sesma @hugo-edel
 - E. Alejandro Corral Rdz.
 ---
 ## Descripción
